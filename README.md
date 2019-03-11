@@ -1,8 +1,13 @@
 # moduloJavascript
 
-alkdsflnkasf
+Semana 1
 
-adsgasfas
-as
+dia2: Comentarios / Variables, ifs, console.log / Hoisting / Strings
 
-agadgadg
+dia3: Booleans / Null / Undefined / Objects / Array / Types convertions / Truthys y Falsys / Numbers
+
+dia4: Operators / Comma / Comparaciones / Casos especiales / Mostrar datos / Condiciones y condiciones ternarias
+
+dia5: If else / Or || / And && / Not ! / Bucles: while, do-while, for, continue
+
+Semana 2
