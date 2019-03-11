@@ -1,6 +1,7 @@
 # moduloJavascript
 
-Primera semana del módulo de JS -->
+Semana 1
+
 
 dia2: Comentarios / Vaariables, ifs, console.log / Hoisting / Strings
 
