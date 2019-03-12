@@ -1,6 +1,6 @@
 # moduloJavascript
 
-Semana 1
+**Semana 1**
 
 dia2: Comentarios / Variables, ifs, console.log / Hoisting / Strings
 
@@ -10,4 +10,6 @@ dia4: Operators / Comma / Comparaciones / Casos especiales / Mostrar datos / Con
 
 dia5: If else / Or || / And && / Not ! / Bucles: while, do-while, for, continue / Contadores
 
-Semana 2
+**Semana 2**
+
+dia6: Switchs / Funciones / Ejercicios con bucles
