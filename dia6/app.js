@@ -9,7 +9,7 @@ import { userInfo } from "os";
 let result = prompt("Example");
 console.log("The result is -> ", result);
 console.log(typeof result);
-
+("");
 isFinite();
 
 //////////////////////////////////////////////////////////// EJERCICIO1  Y EJERCICIO2
