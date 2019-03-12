@@ -13,3 +13,5 @@ dia5: If else / Or || / And && / Not ! / Bucles: while, do-while, for, continue 
 **Semana 2**
 
 dia6: Switchs / Funciones / Ejercicios con bucles
+
+dia7: Ejercicios funciones / Funciones expresivas y declarativas / Callbacks
