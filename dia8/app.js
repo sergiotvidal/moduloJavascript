@@ -3,27 +3,26 @@
  */
 
 // REPASO DE FUNCIONES
-
+/////////////////////////////////////////////EJERCICIO1
 //función declarativa:
 
-function test() {
-  // lo que sea
-  typeof null; // el null es un objecto
-  return null;
-}
+// function test() {
+//   // lo que sea
+//   typeof null; // el null es un objecto
+//   return null;
+// }
 
-//función de expresión:
+// //función de expresión:
 
-const nombre = function(num1, num2) {
-  //lo que sea aquí dentro
-  return 8;
-};
+// const nombre = function(num1, num2) {
+//   //lo que sea aquí dentro
+//   return 8;
+// };
 
-console.log(nombre()); // imprime el return de la función
-console.log(test()); // imprime el resultado de la función, en este caso UNDEFINED pq no tiene un return definido
+// console.log(nombre()); // imprime el return de la función
+// console.log(test()); // imprime el resultado de la función, en este caso UNDEFINED pq no tiene un return definido
 
-// ARROW FUNCTIONS
-
+// // ARROW FUNCTIONS
 
 // son funciones anónimas, pueden dar problemas
 
@@ -31,23 +30,37 @@ console.log(test()); // imprime el resultado de la función, en este caso UNDEFI
 
 //si la arrow funct apunta a un this, está apuntando al documento entero aunque esté dentro de una función, por ejemplo, le pones this.nombre y busca a nivel general un name
 
-function test() {
+// function test() {
+//   createHote();
+//   return null;
+// }
 
-  createHote(
-    return null
-  )
-}
+// const nombre2 = function(num1, num2) {
+//   return num1 + num2;
+// };
 
-const nombre = function(num1, num2){
-  return num1 + num2;
-}
+// const suma = (num1, num2) => num1 + num2;
 
-const suma = (num1, num2) => num1 + num2
+// const suma2 = (num1, num2) => {
+//   let access = checkPermissions();
+//   if (!access) return "No puedes entrar";
 
-const suma = (num1, num2) => {
-  let access = checkPermissions();
-  if(!access) return "No puedes entrar";
-  
-  return num1 + num2;
-}
+//   return num1 + num2;
+// };
+// /////////////////////////////////////////////EJERCICIO2
 
+// DEBUGGER
+
+const cube = num1 => {
+  let x = 20;
+  let y = 60;
+  debugger;
+  x = 50;
+  let res = x + y;
+  console.log("Lo que sea");
+  return num1 ** 3;
+};
+
+cube(3);
+
+//////////////////////////////////////////////// EJERCICIO3
