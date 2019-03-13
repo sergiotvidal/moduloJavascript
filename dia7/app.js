@@ -12,13 +12,13 @@ function name(params) {
   console.log(params);
 }
 
-// FUNCIONES DE EXPRESIÓN
+// FUNCIONES EXPRESIVAS
 
 const name2 = function(params) {
   console.log(params);
 };
 
-let funcion2 = name2;
+let funcion2 = name2; // el let respeta el scope dónde se declara, no hace hoisting
 funcion2(2);
 
 name2("Loquesea");
