@@ -22,6 +22,10 @@
 // console.log(nombre()); // imprime el return de la función
 // console.log(test()); // imprime el resultado de la función, en este caso UNDEFINED pq no tiene un return definido
 
+//las funciones expresivas no tienen nombre, se pueden definir luego, no se pueden llamar ANTES de que sean creadas
+
+//las declarativas las puedes llamar en cualquier momento, porque hacen hoisting
+
 // // ARROW FUNCTIONS
 
 // son funciones anónimas, pueden dar problemas
