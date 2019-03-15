@@ -106,7 +106,7 @@ if(x == y){
 
 // FUSIONAR OBJETOS
 
-// utilizar el object.assign()
+// utilizar el object.assign() ---> MDN
 
 // FUNCIONES DENTRO DE OBJETOS, REFERENCIA AL OBJETO DESDE DENTRO
 
