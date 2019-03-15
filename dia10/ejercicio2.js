@@ -31,4 +31,3 @@ ac = {
 // let ac2 = new Acumulador(0);
 // ac.introduce();
 // console.log(ac);
-// prototípica
