@@ -19,7 +19,29 @@ for (let i in var1) {
 
 ////////////////////////////////////////////////// EJERCICIO1 EJERCICIO2
 
-// CLASES
+// CLASES --> también mirar por mi cuenta prototypes
+
+// sintaxis típica
+class Acumulador2 {
+  constructor(valor1, name = "Default name") {
+    this.valor1 = valor1;
+    this.name = name;
+  }
+
+  metodo1() {
+    let res = +prompt("dame un num");
+    this.valor1 += res;
+    return this;
+  }
+
+  sayHi() {
+    console.log("Hi!");
+  }
+}
+
+let obj2 = new Acumulador2(30, "pepe");
+let obj3 = new Acumulador2(3424);
+
 class Coche {
   constructor(modelo, color, potencia = 100) {
     this.modelo = modelo;
@@ -28,6 +50,7 @@ class Coche {
   }
   setModelo(modelo) {
     this.modelo = modelo;
+    // c1.setModelo("Ferrari"); para cambiar el modelo
   }
 
   sameModel(coche2) {
@@ -44,8 +67,6 @@ let c2 = new Coche("Carro", "Gris", 90);
 let c3 = new Coche("", "Blanco", 90);
 c1.sameModel(c2);
 Coche.sameColor(c1, c2);
-
-c1.setModelo("Ferrari");
 
 /////////////////////////////////////////////////////// EJERCICIO3
 class Animal {
