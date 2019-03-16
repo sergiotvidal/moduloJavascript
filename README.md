@@ -15,3 +15,9 @@ dia5: If else / Or || / And && / Not ! / Bucles: while, do-while, for, continue 
 dia6: Switchs / Funciones / Ejercicios con bucles
 
 dia7: Ejercicios funciones / Funciones expresivas y declarativas / Callbacks
+
+dia8: Ejercicios Funciones / Arrow function / Debugger
+
+dia9: Repaso objetos / Acceso dinámico / Selector dinámico / Propiedades en objetos / Métodos de objetos / Fusionar objetos / Funciones dentro de objetos / Función generadora
+
+dia10: Repaso funciones y funciones constructoras / Ejercicios objetos / Clases
