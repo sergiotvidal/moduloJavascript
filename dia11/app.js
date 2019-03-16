@@ -1,3 +1,5 @@
 /*
  *  1, 2, 3... GO!
  */
+
+// ERRORES, FECHAS, TIPOS MAS A FONDO, ASINCRONÍA
