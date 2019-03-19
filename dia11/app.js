@@ -212,3 +212,6 @@ let obj = {
 let {window: w = 0, innerHeight, alalalala = 5, ...rest} = obj // con el window: w, renombramos la propiedad window como w y le cambiamos el valor también de 100 a 0
 
 // MIRAR EN MDN JSON JS, DATES: como crear una fecha, métodos de Date, asincronía
+
+// LIBRERÍAS DE FECHAS: momentjs
+// web para encontrar librerías --> npmjs
