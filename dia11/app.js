@@ -190,7 +190,7 @@ let arrayNormal = ["Abel", "Pepe"];
 
 let [name1, name2] = arrayNormal;
 
-//lo de arriba es exactamente lo mismo que esto
+// lo de arriba es exactamente lo mismo que esto
 let name1 = arrayNormal[0];
 let name2 = arrayNormal[1];
 

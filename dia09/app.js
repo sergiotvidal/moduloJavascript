@@ -108,7 +108,7 @@ if(x == y){
 
 // utilizar el object.assign() ---> MDN
 
-// FUNCIONES DENTRO DE OBJETOS, REFERENCIA AL OBJETO DESDE DENTRO
+/// FUNCIONES DENTRO DE OBJETOS, REFERENCIA AL OBJETO DESDE DENTRO
 
 let person3 = {
     name: "María"
@@ -119,7 +119,7 @@ let person3 = {
 
 person3.run() // para llamar a la función dentro del objeto
 
-// CÓMO LLAMAR A UNA FUNCIÓN SIN LLAMARLA(hacer que una función se llame a si misma)
+/// CÓMO LLAMAR A UNA FUNCIÓN SIN LLAMARLA(hacer que una función se llame a si misma)
 
 (function saludar(){
     console.log("Hola");

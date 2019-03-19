@@ -17,7 +17,7 @@ for (let i in var1) {
   var1[i];
 }
 
-////////////////////////////////////////////////// EJERCICIO1 EJERCICIO2
+///////////////////////////////////////////////// EJERCICIO1 EJERCICIO2
 
 // CLASES --> también mirar por mi cuenta prototypes
 

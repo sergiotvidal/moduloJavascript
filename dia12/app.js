@@ -62,6 +62,7 @@ async function githubExample(
 }
 
 // esto es lo mismo de arriba, pero escrito con nomenclatura anterior
+
 function githubExample(url = "https://api.github.com/users/sergiotvidal") {
   fetch(url)
     .then(res => {
