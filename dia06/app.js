@@ -4,7 +4,7 @@ import { userInfo } from "os";
  *  1, 2, 3... GO!
  */
 
-//Para comprobar qué tipo está devolviendo
+// Para comprobar qué tipo está devolviendo
 
 let result = prompt("Example");
 console.log("The result is -> ", result);

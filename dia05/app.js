@@ -45,7 +45,7 @@
 //   ? alert(`Hello ${isAdmin}`)
 //   : alert("I don't know you");
 
-///////// OPERADORES LÓGICOS
+// OPERADORES LÓGICOS
 
 // OR ||
 

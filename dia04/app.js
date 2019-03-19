@@ -4,7 +4,7 @@
 
 //OPERATORS
 
-2 + 2; // reglas para operaciones iguales que en matemáticas
+2 + 2; // reglas para operaciones iguales que en matemáticas.
 
 let num = 2; //para hacerlo negativo ->
 
